@@ -1,7 +1,4 @@
 language: python
-env:
-  - TOXENV=pytest28
-  - TOXENV=pytest29
 matrix:
   include:
     - python: 2.7
